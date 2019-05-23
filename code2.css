@@ -1,0 +1,53 @@
+/**
+* CUSTOM
+*/
+
+.sprint-health-dashboard-item {
+	background: none !important;
+}
+
+.two-d-container table.aui tbody .totals {
+    background: none !important;
+}
+
+.ktm-list-card .ktm-list-card-decorators {
+    background-color: transparent !important;
+    box-shadow: none;
+}
+
+.ktm-list-card:hover .ktm-list-card-decorators {
+    box-shadow: none;
+}
+
+.ktm-list-card:hover {
+    background-color: #2C3037 !important;
+}
+
+.action-body blockquote {
+    color: #9a9a9a !important;
+}
+
+.issue-header {
+    background-color: #21252D !important;
+}
+
+.issue-header.detached {
+    box-shadow: 0 0 15px 5px #21252D;
+}
+
+.stuck-bottom {
+    background-color: #21252D !important;
+}
+
+.ghx-issue .ghx-end {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+span.aui-label.undefined {
+    color: #333333 !important;
+}
+
+#releases-add__version {
+    background-color: transparent !important;
+}
