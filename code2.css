@@ -51,3 +51,7 @@ span.aui-label.undefined {
 #releases-add__version {
     background-color: transparent !important;
 }
+
+.ghx-selected {
+    background-color: #3C414C !important;
+}
