@@ -52,6 +52,12 @@ span.aui-label.undefined {
     background-color: transparent !important;
 }
 
-.ghx-selected {
+.ghx-selected,
+.ghx-selected .ghx-end {
     background-color: #3C414C !important;
+}
+
+.ghx-issue-compact:hover,
+.ghx-issue-compact:hover .ghx-end {
+	background-color: #75484a !important;
 }
